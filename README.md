@@ -1,16 +1,16 @@
 # Async AI Automation Portfolio
 
-A browser-only static portfolio landing page for fixed-scope AI automation freelance offers.
+A browser-only portfolio landing page for AI automation dashboards, workflow prototypes, CSV tools, and internal business demos.
 
 [Live demo](https://rabbit57.github.io/async-ai-automation-portfolio/)
 
 ## Live Sections
 
-- Hero offer: async AI automation prototypes with no calls required
+- Hero offer: fast AI-assisted automation prototypes with clear requirements
 - Project cards for Silent Ticket Triage and Revenue CSV Copilot
 - Fixed-price offer list
-- Async-only working style
-- Contact brief CTA
+- Simple workflow from brief to working demo
+- Project brief CTA
 
 ## Run Locally
 
